@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.container{
+    background-color:forestgreen;
+    margin:auto;
+    width: 450px;
+    height: 550px;
+    border:3px solid white;
+    box-sizing: border-box;
+    border-radius: 15px;
+    
+    
+}
+.h2{
+    color:bisque;
+    margin-top:100px;
+    text-align:center;
+    font-family:'Times New Roman', Times, serif;
+    margin-bottom: 50px;
+}
+.ptag{
+    text-align:center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+    
+}
+.anc{
+    text-align: center;
+    margin-top: 20px;
+    
+}
+
+    
+
+    
